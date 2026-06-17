@@ -135,5 +135,5 @@ AnyKernel3_KernelSU_Next_12896_oneplus_11_Android14.1.0_ZRAM_VFS.zip
  
 - 添加 `zram` 模块的 `LZ4K、LZ4KD` 压缩算法支持[@ShirkNeko](https://github.com/ShirkNeko)  
  
-- 支持自动下载最新 `CI/Release` 的 `susfs` 模块并调用 `ksud` 安装  
+- 支持自动下载最新 `CI/Release` 的 `susfs` 模块并调用 `ksud` 安装  .
  
